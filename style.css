@@ -1,0 +1,12 @@
+.cssglobal input{
+    width:100%;
+}
+.cssglobal select{
+    width:100%;
+}
+
+.cssglobal td{margin-bottom: 10px;margin-top: 10px;}
+
+.cssglobal {
+    display:none;
+}
